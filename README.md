@@ -1,0 +1,2 @@
+# Subscriptions-to-add-one-time-payment-with-a-monthly-subscription-Order
+this code will create a order for subscription user did at that date of new month. example use purchased 1 year of subscription and you want a create an order everymonth for dispatch a product to user and want to track everything this code will generate a new order at same day when user purchase the subscription till the end of day of subscription. which help admin to track order easily ever month.
