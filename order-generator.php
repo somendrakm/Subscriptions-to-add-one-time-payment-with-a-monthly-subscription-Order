@@ -1,4 +1,5 @@
 <?php
+/*
 Plugin Name: One Time Subscription with monthly order generator 
 Plugin URI: https://corlax.com/
 Description: Subscriptions to add one time payment with a monthly subscription Order
